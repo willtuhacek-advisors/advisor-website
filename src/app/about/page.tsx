@@ -3,7 +3,7 @@ import type { Metadata } from "next";
 import { basePath } from "@/lib/site";
 
 export const metadata: Metadata = {
-  title: "About | Your Advisory Firm",
+  title: "About | Tuhacek Wealth Advisors, LLC",
   description: "Background and experience.",
 };
 

@@ -15,7 +15,7 @@ export default function NavBar() {
           href="/"
           className="text-lg font-semibold tracking-tight text-white"
         >
-          Your Advisory Firm
+          Tuhacek Wealth Advisors, LLC
         </Link>
         <nav className="flex gap-8 text-sm font-medium text-gray-200">
           {links.map((link) => (

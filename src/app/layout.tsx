@@ -15,7 +15,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Your Advisory Firm",
+  title: "Tuhacek Wealth Advisors, LLC",
   description: "Independent, fiduciary financial advice for individuals and families.",
 };
 

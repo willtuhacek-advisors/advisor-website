@@ -1,7 +1,7 @@
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "Contact | Your Advisory Firm",
+  title: "Contact | Tuhacek Wealth Advisors, LLC",
   description: "Get in touch to schedule a consultation.",
 };
 
