@@ -9,7 +9,7 @@ const links = [
 
 export default function NavBar() {
   return (
-    <header className="bg-navy border-b-2 border-gold">
+    <header className="bg-pattern-navy border-b-2 border-gold">
       <div className="mx-auto flex max-w-5xl items-center justify-between px-6 py-5">
         <Link
           href="/"
