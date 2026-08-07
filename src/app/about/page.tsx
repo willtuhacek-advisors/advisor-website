@@ -1,5 +1,6 @@
 import Image from "next/image";
 import type { Metadata } from "next";
+import { basePath } from "@/lib/site";
 
 export const metadata: Metadata = {
   title: "About | Your Advisory Firm",
@@ -15,7 +16,7 @@ export default function About() {
         </h1>
         <div className="mt-10 flex flex-col gap-10 sm:flex-row sm:items-start">
           <Image
-            src="/images/headshot.jpg"
+            src={`${basePath}/images/headshot.jpg`}
             alt="Portrait"
             width={280}
             height={280}
